@@ -1,0 +1,72 @@
+This is a collection of recent results where LLMs are shown to be potential proxies of human behaviour.
+
+## 1. Psychometric Evaluation Frameworks  
+**Directions**: Quantitative assessment of LLM-simulated personality traits  
+
+1. **[Evaluating and Inducing Personality in Pre-trained Language Models](https://proceedings.neurips.cc/paper_files/paper/2023/hash/21f7b745f73ce0d1f9bcea7f40b1388e-Abstract-Conference.html)**  
+   - **Authors**: Guangyuan Jiang, Manjie Xu, Song-Chun Zhu, Wenjuan Han, Chi Zhang, Yixin Zhu
+   - **Venue**: NeurIPS 2023  
+   - **Key Insight**: MPI framework for trait quantification 
+   - **GitHub**: [@jianggy](https://github.com/jianggy/MPI)
+
+2. **[Quantifying the Persona Effect in LLM Simulations](https://aclanthology.org/2024.acl-long.554/)**  
+   - **Authors**: Tiancheng Hu, Nigel Collier  
+   - **Venue**: ACL 2024 (Main)  
+   - **Key Insight**: Persona variables explain <10% variance in human-like behaviors  
+
+3. **[LLMs Simulate Big5 Personality Traits: Further Evidence](https://aclanthology.org/2024.personalize-1.7/)**
+   - **Authors**: Aleksandra Sorokovikova, Sharwin Rezagholi, Natalia Fedorova, Ivan P. Yamshchikov
+   - **Venue**: Presonalize 2024 (co-located with EACL 2024)  
+   - **Key Insight**: Mistral, LLAMA and GPT score differently on Big5 out of the box  
+
+
+---
+
+## 2. Multi-Agent Social Systems  
+**Directions**: Emergent behaviors in LLM communities  
+
+1. **[Spontaneous Emergence of Agent Individuality](https://pmc.ncbi.nlm.nih.gov/articles/PMC11675631/)**  
+   - **Authors**: Ryosuke Takata, Atsushi Masumori, Takashi Ikegami  
+   - **Venue**: Entorpy  
+   - **Key Insight**: Each agent’s emotions shift through communication, and as they form communities, the personalities of the agents emerge and evolve accordingly.
+
+---
+
+## 3. Cognitive Architecture Design  
+
+**Directions**: Memory Systems, Longitudinal personality development, Theory of Mind Modeling, Belief/intention simulation  
+
+1. **[Human Simulacra: Personification Benchmark](https://openreview.net/pdf/823a8d6e954ef15b6b4099cd229dd193f5377f1c.pdf)**  
+   - **Authors**: Qiujie Xie,  Qiming Feng,  Tianqi Zhang,  Qingqiu Li, Linyi Yang, Yuejie Zhang, Rui Feng, Liang He, Shang Gao, Yue Zhang   
+   - **Venue**: ICLR 2025  
+   - **Key Insight**: Multi-Agent Cognitive Mechanism capable of simulating human cognitive processes, and a psychology-guided evaluation method to assess human simulations from both self and observational perspectives  
+   - **GitHub**: [@HumanSimulacra](https://github.com/HumanSimulacra)  
+
+2. **[IMBUE: Improving Interpersonal Effectiveness through Simulation and Just-in-time Feedback with Human-Language Model Interaction](https://aclanthology.org/2024.acl-long.47/)**  
+   - **Authors**: Inna Lin, Ashish Sharma, Christopher Rytting, Adam Miner, Jina Suh, Tim Althoff  
+   - **Venue**: ACL 2024  
+   - **Key Insight**: Real-time feedback loops for interpersonal behavior tuning
+
+---
+
+## 4. Decision-Making Paradigms  
+**Directions**: LLMs as rational agents vs. social beings  
+
+---
+
+## 5. Validation & Ethics  
+**Focus**: Alignment with human baselines  
+
+1. **[Perils and opportunities in using large language models in psychological research](https://academic.oup.com/pnasnexus/article/3/7/pgae245/7712371)**  
+   - **Authors**: Suhaib Abdurahman, Mohammad Atari, Farzan Karimi-Malekabadi, Mona J Xue, Jackson Trager, Peter S Park, Preni Golazizian, Ali Omrani, Morteza Dehghani
+   - **Venue**: PNAS Nexu 
+   - **Key Insight**: global psychological diversity is hard to capture with LLMs.
+
+---
+
+## Contributing  
+
+Submit additions/correction via Pull Requests with:  
+1. Peer-reviewd paper links from official conference proceedings  
+2. Verified contact information  
+3. Links to open-source implementations  
