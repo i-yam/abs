@@ -37,7 +37,7 @@ This is a collection of recent results where LLMs are shown to be potential prox
 **Directions**: Memory Systems, Longitudinal personality development, Theory of Mind Modeling, Belief/intention simulation  
 
 1. **[Human Simulacra: Personification Benchmark](https://openreview.net/pdf/823a8d6e954ef15b6b4099cd229dd193f5377f1c.pdf)**  
-   - **Authors**: Qiujie Xie,  Qiming Feng,  Tianqi Zhang,  Qingqiu Li, Linyi Yang, Yuejie Zhang, Rui Feng, Liang He, Shang Gao, Yue Zhang   
+   - **Authors**: Qiujie Xie,  Qiming Feng, Tianqi Zhang, Qingqiu Li, Linyi Yang, Yuejie Zhang, Rui Feng, Liang He, Shang Gao, Yue Zhang   
    - **Venue**: ICLR 2025  
    - **Key Insight**: Multi-Agent Cognitive Mechanism capable of simulating human cognitive processes, and a psychology-guided evaluation method to assess human simulations from both self and observational perspectives  
    - **GitHub**: [@HumanSimulacra](https://github.com/HumanSimulacra)  
