@@ -64,6 +64,29 @@ This is a collection of recent results where LLMs are shown to be potential prox
 
 ---
 
+## 6. Biases in Language Models
+**Focus**: Model responses and scoring based on the supposed identity.
+
+1. **[‘A Woman is More Culturally Knowledgeable than A Man?’: The Effect of Personas on Cultural Norm Interpretation in LLMs](https://arxiv.org/pdf/2409.11636)**
+   - **Authors**: Mahammed Kamruzzaman, Hieu Nguyen, Nazmul Hassan, Gene Louis Kim
+   - **Venue**: Pre-Print
+   - **Key Insight**: prompting an LLM with a person of a specific gender, age, income, origin, etc. changes its scores on specialized benchmarks.
+
+2. **[When “A Helpful Assistant” Is Not Really Helpful: Personas in System Prompts Do Not Improve Performances of Large Language Models](https://aclanthology.org/2024.findings-emnlp.888.pdf)**  
+   - **Authors**: Mingqian Zheng, Jiaxin Pei, Lajanugen Logeswaran, Moontae Lee, David Jurgens
+   - **Venue**: EMNLP 2024 Findings
+   - **Key Insight**: prompmting an LLM with a persona does not necessarily leads to performance improvement.
+
+3. **[A Comparative Study of Explicit and Implicit Gender Biases in Large Language Models via Self-evaluation](https://aclanthology.org/2024.lrec-main.17.pdf)**
+   - **Authors**: Yachao Zhao, Bo Wang, Yan Wang, Dongming Zhao, Xiaojia Jin, Jijun Zhang, Ruifang He, Yuexian Hou
+   - **Venue**: LREC 2024
+   - **Key Insight**: comparing explicit and implicit gender biases in LLMs.
+
+4. **[Interpreting Bias in Large Language Models: A Feature-Based Approach](https://arxiv.org/pdf/2406.12347)**
+   - **Authors**: Nirmalendu Prakash, Roy Ka-Wei Lee
+   - **Venue**: BlackBoxNLP 2023
+   - **Key Insight**: interpreting inner model features related to gender biases.
+
 ## Contributing  
 
 Submit additions/correction via Pull Requests with:  
