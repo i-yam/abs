@@ -30,6 +30,17 @@ This is a collection of recent results where LLMs are shown to be potential prox
    - **Venue**: Entorpy  
    - **Key Insight**: Each agent’s emotions shift through communication, and as they form communities, the personalities of the agents emerge and evolve accordingly.
 
+**pre-prints**
+
+1. **[I Want to Break Free! Persuasion and Anti-Social Behavior of LLMs in Multi-Agent Settings with Social Hierarchy](https://arxiv.org/abs/2410.07109)**  
+   - **Authors**: Gian Maria Campedelli, Nicolò Penzo, Massimo Stefan, Roberto Dessì, Marco Guerini, Bruno Lepri, Jacopo Staiano 
+   - **Key Insight**: when two LLMs interact in a prisoner-guard settings, toxic behaviors arises and, depending on the goal, persuasion attempts take place.
+
+
+2. **[Don't Stop the Multi-Party! On Generating Synthetic Multi-Party Conversations with Constraints](https://arxiv.org/abs/2502.13592)**  
+   - **Authors**: Nicolò Penzo, Marco Guerini, Bruno Lepri, Goran Glavaš, Sara Tonelli
+   - **Key Insight**: LLMs can be used to generate synthetic Multi-Party Conversations, with differences between a one-long generation vs. multi-step process.
+
 ---
 
 ## 3. Cognitive Architecture Design  
@@ -62,6 +73,10 @@ This is a collection of recent results where LLMs are shown to be potential prox
    - **Venue**: PNAS Nexu 
    - **Key Insight**: global psychological diversity is hard to capture with LLMs.
 
+2. **[Do LLMs suffer from Multi-Party Hangover? A Diagnostic Approach to Addressee Recognition and Response Selection in Conversations](https://aclanthology.org/2024.emnlp-main.628/)**
+   - **Authors**: Nicolò Penzo, Maryam Sajedinia, Bruno Lepri, Sara Tonelli, Marco Guerini
+   - **Venue**: EMNLP 2024 
+   - **Key Insight**: evaluation pipeline for LLMs performance on Multi-Party Conversations scenarios.
 ---
 
 ## 6. Biases in Language Models
