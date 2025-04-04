@@ -1,3 +1,36 @@
+# Agentic Behavior Simulation (ABS) 
+
+## Welcome to our repository! 
+
+We are a group of researchers working on AI agents for simulations of social scenarios. Our discussions cover topics such as multi-agent systems, persona-based models, conversational AI, and more.
+
+Our aim is to build a vibrant, collaborative community of researchers, mostly based in Europe, who are interested in AI agents in social contexts. People with very diverse backgrounds are welcome!
+
+Send us a message for being add to the repo and join our Discord Server!
+
+# Institutions involved
+
+## Fondazione Bruno Kessler (Trento, Italy)
+
+In FBK, we are currently working on LLMs in interactions (studying arising toxic behaviours and persuasion phenomena) and Multi-Party Conversations, with a focus on how to sythesise them.
+
+**Referent**: Nicolò Penzo, npenzo@fbk.eu
+
+## Technical University of Applied Sciences Würzburg-Schweinfurt (Würzburg, Germany)
+
+In THWS, we are currently working on.....
+
+**Referent**: Prof. Dr. Ivan Yamshchikov, 
+
+# People
+
+Pavel Chizhov, Technical University of Applied Sciences Würzburg-Schweinfurt
+
+Nicolò Penzo, Fondazione Bruno Kessler and University of Trento
+
+Ivan P. Yamshchikov, Technical University of Applied Sciences Würzburg-Schweinfurt
+
+
 This is a collection of recent results where LLMs are shown to be potential proxies of human behaviour.
 
 ## 1. Psychometric Evaluation Frameworks  
