@@ -20,7 +20,7 @@ In FBK, we are currently working on LLMs in interactions (studying arising toxic
 
 In THWS, we are currently working on.....
 
-**Referent**: Prof. Dr. Ivan Yamshchikov, 
+**Referent**: Prof. Dr. Ivan Yamshchikov, ivan.yamshchikov@thws.de
 
 # People
 
