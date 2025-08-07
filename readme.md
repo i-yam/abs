@@ -131,9 +131,13 @@ This is a collection of recent results where LLMs are shown to be potential prox
    - **Key Insight**: comparing explicit and implicit gender biases in LLMs.
 
 4. **[Interpreting Bias in Large Language Models: A Feature-Based Approach](https://arxiv.org/pdf/2406.12347)**
-   - **Authors**: Nirmalendu Prakash, Roy Ka-Wei Lee
+   - **Authors**:  Nirmalendu Prakash, Roy Ka-Wei Lee
    - **Venue**: BlackBoxNLP 2023
    - **Key Insight**: interpreting inner model features related to gender biases.
+5. **[Explicit vs. Implicit: Investigating Social Bias in Large Language Models through Self-Reflection]([https://arxiv.org/pdf/2406.12347](https://arxiv.org/abs/2501.02295v4))**
+   - **Authors**: Wanxiang Che, Joyce Nabende, Ekaterina Shutova, Mohammad Taher Pilehvar
+   - **Venue**: Findings of the Association for Computational Linguistics: ACL 2025
+   - **Key Insight**: implicit bias gets worse as models scale up
 
 ## Contributing  
 
